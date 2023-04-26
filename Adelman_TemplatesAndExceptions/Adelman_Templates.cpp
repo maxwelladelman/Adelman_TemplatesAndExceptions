@@ -7,9 +7,6 @@ using namespace std;
 //Maxwell Adelman
 //4/25/2023
 //CIS 1202.501
-//Template assignment 15b
-template <class T>
-T half(T num);
 
 int main() {
 
